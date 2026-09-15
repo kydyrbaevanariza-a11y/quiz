@@ -1,2 +1,2 @@
 # quiz
-quizz
+index.html
